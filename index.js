@@ -41,9 +41,4 @@ function onPressEscape(event) {
   if (event.code === "Escape") {
     closeModal();
   }
-}
-
-
-
-
-
+} 
